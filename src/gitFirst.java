@@ -1,6 +1,7 @@
 public class gitFirst {
     public static void main(String[] args) {
-        System.out.println("Auuu"); // kom 1
+        System.out.println("Auuu");
+        // zmiana
 
     }
 
